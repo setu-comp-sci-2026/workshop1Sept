@@ -1,1 +1,1 @@
-Friday January 12th, 2024
+Friday January 10th, 2025
