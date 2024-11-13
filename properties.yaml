@@ -1,0 +1,14 @@
+credits   : Department of Computing & Mathematics, SETU
+slack     : https://setu-hdip-comp-sci-25.slack.com
+parent    : course/setu-hdip-comp-sci-2025
+ignorepin : 2125
+icon: 
+  type: ri:bubble-chart-fill
+  color: 009656
+ignore         :
+
+#- unit-0
+- unit-1
+- unit-2
+- unit-3
+- unit-4
