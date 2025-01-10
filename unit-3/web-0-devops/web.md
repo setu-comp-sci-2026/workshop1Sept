@@ -1,8 +1,12 @@
 ---
-icon:
-  type: ri:settings-4-fill
-  color: f4a13b
----
-Programming
 
-algorithms · data structures · processing · java · classes · libraries
+icon: 
+
+  type: ri:cloudy-2-fill
+  
+  color: 51a3c3
+
+---
+# DevOps
+
+Devops overview 
