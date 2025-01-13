@@ -1,3 +1,3 @@
-# Bernard Thompson
+# John Butler
 
-Software Engineer II at Kargo Commerce
+Principal Software Engineer at Kargo 
