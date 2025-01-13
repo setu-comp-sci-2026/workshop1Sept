@@ -9,4 +9,4 @@ icon:
 ---
 # DevOps
 
-Devops overview included in Panel Video above
+Devops overview 
