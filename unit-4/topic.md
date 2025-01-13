@@ -1,2 +1,1 @@
-Project & Placement
-
+Technical Interviews
