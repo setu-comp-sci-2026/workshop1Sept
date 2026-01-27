@@ -10,4 +10,4 @@ icon:
 
 Project & Placement
 
-CV Preparation · placement · project handbook · showcases · samples
+placement · project handbook · showcases · samples
