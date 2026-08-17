@@ -1,3 +1,3 @@
 Agenda
 
-Agenda & directions for the January Worrkshop Event
+Agenda & directions for the September Onsite 
