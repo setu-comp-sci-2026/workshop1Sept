@@ -1,3 +1,3 @@
-Dr Frank Walsh
+Frank Walsh
 
 Course Leader - Lecturer in Computing

@@ -1,3 +1,3 @@
-Dr Indrakshi Dey
+Indrakshi Dey
 
 Lecturer - Dept of Computing and Maths
